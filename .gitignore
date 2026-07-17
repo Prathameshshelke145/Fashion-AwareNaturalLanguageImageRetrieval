@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/images/
+data/*.json
+data/chroma_store/
+outputs/*.png
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+.env
