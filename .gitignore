@@ -9,6 +9,5 @@ outputs/*.png
 .venv/
 venv/
 .env
-testing/trails
-.ipynb
+testing/*.ipynb
 
