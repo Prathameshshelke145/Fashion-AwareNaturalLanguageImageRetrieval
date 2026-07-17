@@ -9,3 +9,4 @@ outputs/*.png
 .venv/
 venv/
 .env
+testing/trails
