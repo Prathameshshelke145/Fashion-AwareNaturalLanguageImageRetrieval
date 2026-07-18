@@ -1,4 +1,4 @@
-# 👗 Fashion Search Engine
+# Fashion Search Engine
 
 **Natural-language image retrieval over the Fashionpedia dataset.**
 
